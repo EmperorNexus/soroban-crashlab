@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1808-central-csrf-defense-for-every-state-changing"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1808-central-csrf-defense-for-every-state-changing": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1808-central-csrf-defense-for-every-state-changing"
+  ]
+}
